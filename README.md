@@ -22,7 +22,7 @@
 
 ## K8s
 
-### Pod autoscaling
+### [Pod autoscaling](https://hackmd.io/-5AfWOIqTmCW-APHm0b7GA)
 
 1. 請先製作好 deployment 、 Service 和 ingress
 
